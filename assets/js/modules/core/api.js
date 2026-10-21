@@ -7,7 +7,7 @@ const DEFAULT_API_URL = 'https://script.google.com/macros/s/';
 const TENANT_CONFIG = {
     // Ganti nilai-nilai ini dengan URL Web App Google Apps Script masing-masing sekolah
     "sman15tebo": "https://script.google.com/macros/s/AKfycbz-avfNM6Pp4uADla6sxtG-IHGDm2oUnnSqS68C1O0fDNB8cRgIdudHYrqhQH2kzzz9/exec",
-    "sman20tebo": DEFAULT_API_URL,
+    "sman20tebo": "https://script.google.com/macros/s/AKfycbwDlXTSx63SCU4s1Aq1-SLIcSQcf0fc5b1Q6Gb0yrfqHbxp86Fq331e9i360ZNT_1GERQ/exec",
     "sekolah3": DEFAULT_API_URL,
     "default": DEFAULT_API_URL // HARUS ADA!
 };
